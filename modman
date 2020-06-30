@@ -1,2 +1,2 @@
-n98-magerun.yaml    lib/n98-magerun/CustomGento_TaxEditor/n98-magerun.yaml
-src                 lib/n98-magerun/CustomGento_TaxEditor/src
+n98-magerun.yaml    lib/n98-magerun/modules/CustomGento_TaxEditor/n98-magerun.yaml
+src                 lib/n98-magerun/modules/CustomGento_TaxEditor/src
